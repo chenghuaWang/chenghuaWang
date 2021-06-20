@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🖼️ computer vision & (a little)computer graphics
+- 🌱 I’m currently learning cv and 'csapp'
+
+![Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenghuaWang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chenghuaWang&layout=compact&theme=radical)
 <!--
 **chenghuaWang/chenghuaWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
