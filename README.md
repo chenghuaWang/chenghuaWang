@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🖼️ computer vision & (a little)computer graphics
-- 🌱 I’m currently learning cv and 'csapp'
+- 🖼️ I’m currently working on computer vision & (a little)computer graphics
+- 🌱 I’m currently learning HPC/Computer Architecture/CG
 
 ![Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenghuaWang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
