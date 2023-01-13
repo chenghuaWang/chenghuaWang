@@ -12,8 +12,6 @@ Hi👋, I'm Chenghua Wang, currently a Junior student in ZJGSU.
 
 *Skills*: pytorch, paddlepaddle, opencv, mysql, redis, flutter, nginx
 
-![Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenghuaWang)
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenghuaWang&hide=javascript,html&layout=compact) -->
 
 ---
