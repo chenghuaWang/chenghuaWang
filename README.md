@@ -8,9 +8,9 @@ Hi👋, I'm Chenghua Wang, currently a Junior student in ZJGSU.
 
 ---
 
-*Languages used*: c, c++, python, golang, asm(x86, risc-v), cuda, lua, dart
+*Languages used*: c, c++, python, golang, asm(x86, risc-v), cuda, glsl, lua, dart
 
-*Skills*: pytorch, paddlepaddle, opencv, mysql, redis, flutter, nginx
+*Skills*: pytorch, paddlepaddle, opencv, opengl, mysql, redis, flutter, nginx, django
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenghuaWang&hide=javascript,html&layout=compact) -->
 
