@@ -37,8 +37,6 @@ Hi👋, I'm Chenghua Wang, currently a Junior student in ZJGSU.
 
 - [image-dehazing-the-end](https://github.com/chenghuaWang/image-dehazing-the-end)
   
-  📨In private know, coming soon, before Feb 12.
-  
   A tech report of my image dehazing research from Jan 1 2022 to Dec 31 2022
   
 </details>
