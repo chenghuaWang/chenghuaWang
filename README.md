@@ -16,7 +16,7 @@ Hi👋, I'm Chenghua Wang, currently a Junior student in ZJGSU.
 
 ---
 
-<details><summary>[Projects(click to expand)]</summary>
+<details open><summary>[Projects(click to expand)]</summary>
 <br>
   
 - [mgloria](https://github.com/chenghuaWang/mgloria)
