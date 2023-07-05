@@ -1,10 +1,11 @@
-Hi👋, I'm Chenghua Wang, currently a Junior student in ZJGSU.
+Hi👋, I'm Chenghua Wang, currently a Junior student at ZJGSU.
 
-* I'm currently preparing for the entrance examination for postgraduate.
-* I'm interested in machine learning system, distributed system and database.
-* Currently learning distributed system, Golang and OS.
-* Reading 'Operating System Three Easy Pieces' and tons of papers(MLSys)
+* I'm currently preparing for the entrance examination for postgraduate and looking for labs that do HPC+AI research.
+* I'm interested in machine learning system, distributed system, HPC+AI, Hardware/Software Co-design.
+* Currently working on **nncv**(A neural network inference and compile framework for computer vision; for practicing purpose; to learning MLSys).
 * I've struggled for almost one and half years on computer vision(Dehazing, Multi-label classification. July 1 2021 -> Dec 31 2022)
+
+contact me: chenghua.wang.edu@gmail.com
 
 ---
 
@@ -18,14 +19,20 @@ Hi👋, I'm Chenghua Wang, currently a Junior student in ZJGSU.
 
 <details open><summary>[Projects(click to expand)]</summary>
 <br>
+
+You can visit [about](https://chenghuawang.github.io/keep-moving-forward/about/about/) for more information.
+
+- [nncv](https://github.com/chenghuaWang/nncv)
+  
+  **N**eural **N**etwork inference&compile toolchain for **C**omputer **V**ision. _Still on working._
   
 - [mgloria](https://github.com/chenghuaWang/mgloria)
   
-  A Matrix lib based on SIMD and expression template. On CPU/GPU.
+  A Matrix lib based on SIMD and expression template. On CPU/GPU. *Currently, GPU functionality is not fully implemented*
   
 - [covalent bond](https://github.com/chenghuaWang/covalentBond)
   
-  A tool for managing distributed database, gathering/cleaning data, etc. A project for 2022-2023 Fall, SE lecture.
+  A tool for managing distributed database, gathering/cleaning data, etc. covalentBond(cb) using Op graph concept to allow users to easily build query logic and data manipulation logic. We took a lot of inspiration from torch and bound most of cb's operators in lua, making it very easy for users to construct and overload the basic behavior of graphs. This project is for 2022-2023 Fall, SE lecture.
   
 - [daydream engine](https://github.com/chenghuaWang/DaydreamEngine)
   
