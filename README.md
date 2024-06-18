@@ -1,8 +1,6 @@
-Hi👋, I'm Chenghua Wang, currently a Junior student at ZJGSU.
+Hi👋, I'm Chenghua Wang, currently a postgraduate CS student at BUPT.
 
-* I'm currently preparing for the entrance examination for postgraduate and looking for labs that do HPC+AI research.
-* I'm interested in machine learning system, distributed system, HPC+AI, Hardware/Software Co-design.
-* Currently working on **nncv**(A neural network inference and compile framework for computer vision; for practicing purpose; to learning MLSys).
+* I'm interested in AI&Sys.
 * I've struggled for almost one and half years on computer vision(Dehazing, Multi-label classification. July 1 2021 -> Dec 31 2022)
 
 contact me: chenghua.wang.edu@gmail.com
