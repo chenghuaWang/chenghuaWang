@@ -1,6 +1,7 @@
 Hi👋, I'm Chenghua Wang, currently a postgraduate CS student at BUPT.
 
 * I'm interested in AI&Sys.
+* I am currently working on an [MLLM](https://github.com/UbiquitousLearning/mllm/) project.
 * I've struggled for almost one and half years on computer vision(Dehazing, Multi-label classification. July 1 2021 -> Dec 31 2022)
 
 contact me: chenghua.wang.edu@gmail.com
