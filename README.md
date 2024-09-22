@@ -21,6 +21,10 @@ contact me: chenghua.wang.edu@gmail.com
 
 You can visit [about](https://chenghuawang.github.io/keep-moving-forward/about/about/) for more information.
 
+- [mllm](https://github.com/UbiquitousLearning/mllm)
+
+  fast and lightweight multimodal LLM inference engine for mobile and edge devices
+
 - [nncv](https://github.com/chenghuaWang/nncv)
   
   **N**eural **N**etwork inference&compile toolchain for **C**omputer **V**ision. _Still on working._
